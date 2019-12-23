@@ -1,2 +1,2 @@
-# Rain
-Raining Game
+# RainApo
+Endless Runner Game
